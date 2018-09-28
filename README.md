@@ -4,8 +4,8 @@
         *Yudinskikh Yaroslav
         *Mullahmetov Rinat
 
-
-##1 part: -Shall Statements
+## 1 part: 
+          -Shall Statements
           -Context Diagram
           -Uses-Diagram
    
