@@ -8,4 +8,9 @@
           -Shall Statements
           -Context Diagram
           -Uses-Diagram
+## 2 part:
+          -ER
+## 3 part:
+          -Data Base
+     
    
